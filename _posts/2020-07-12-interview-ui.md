@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 2020 UI、PM 面试概述
+title: 2020 UI、PM 面试基础
 categories: [设计, 产品经理]
 pagetype: 5
 ---
